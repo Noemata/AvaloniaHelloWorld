@@ -15,7 +15,7 @@ Starting point: https://github.com/AvaloniaUI/avalonia-dotnet-templates
 
 ## Notes
 
-This is also an example of a minimal MVVM pattern where the code behind is used as the model.
+This is also an example of a minimal MVVM pattern where the code behind is used as the viewmodel.
 
 Look at the releases section for a current build of the templates nuget package.
 
