@@ -13,6 +13,8 @@ Starting point: https://github.com/AvaloniaUI/avalonia-dotnet-templates
 ## Screenshots
 ![Screenshot](https://github.com/Noemata/AvaloniaHelloWorld/blob/master/Screenshot.png)
 
+![Screenshot](https://github.com/Noemata/AvaloniaHelloWorld/blob/master/VS2022forMac_Screenshot.png)
+
 ## Notes
 
 This is also an example of a minimal MVVM pattern where the code behind is used as the viewmodel.
