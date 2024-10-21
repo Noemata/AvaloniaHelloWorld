@@ -12,7 +12,6 @@ Starting point: https://github.com/AvaloniaUI/avalonia-dotnet-templates
 
 ## Screenshots
 ![Screenshot](https://github.com/Noemata/AvaloniaHelloWorld/blob/master/Screenshot.png)
-
 ![Screenshot](https://github.com/Noemata/AvaloniaHelloWorld/blob/master/VS2022forMac_Screenshot.png)
 
 ## Notes
